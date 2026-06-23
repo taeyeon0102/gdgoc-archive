@@ -6,7 +6,7 @@
 
 ## 📖 Studies
 
-활동 기간 동안 참여하며 이론을 다지고 실습을 진행한 스터디 목록입니다.
+활동 기간 동안 참여하며 이론을 다지고 실습을 진행한 스터디 목록입니다. (아직 링크 미연결)
 
 ### 📘 기초 인공지능 스터디
 * **기간:** 2025.09 ~ 2025.12
@@ -16,9 +16,9 @@
 
 ### 📘 기초 Kaggle 스터디
 * **기간:** 2025.12 ~ 2026.02
-* **내용:** kaggle competition 참가 전, 세 가지 기본 대회를 통해 kaggle 방식을 학습하고, 직접 모델을 구현하고 튜딩하였습니다.
-* **스택:** Python, pytorch
-* **바로가기:** [🔗 관련 링크](https://github.com/) | [📝 블로그 총정리 포스팅](https://github.com/)
+* **내용:** kaggle competition 참가 전, titanic, House Prices, digit recognizer 대회를 통해 kaggle 방식을 학습하고, 직접 모델을 구현하고 튜딩하였습니다.
+* **스택:** Python
+* **바로가기:** [🔗 관련 링크](https://github.com/) | [📝 블로그 정리 포스팅](https://github.com/)
 
 ### 🧠 한 권으로 끝내는 딥러닝 스터디
 * **기간:** 2026.03 ~ 2025.6
@@ -48,5 +48,5 @@ GDGOC에서 팀원들과 함께 치열하게 고민하고 리드하며 빌드한
 
 ## 👨‍💻 Member
 * **이름:** 김태연
-* **소속:** GDGOC On-Campus Member (2025 - 2026)
+* **소속:** GDGOC On HUFS Member (2025 - 2026)
 * **Contact:** taeyeon.work@gmail.com
